@@ -41,8 +41,8 @@ Dashboard
 <img width="823" alt="Screen Shot 2021-07-20 at 9 56 12 PM" src="https://user-images.githubusercontent.com/79430431/126433532-6c8bc5c4-29a5-47fd-9c0b-0fe6bf3f0053.png">
 
 ## Important Links
-[Github](https://github.com/vbarajas4/18-NoSQL-Workout-Tracker)
-[Heroku]()
+- [Github](https://github.com/vbarajas4/18-NoSQL-Workout-Tracker)
+- [Heroku]()
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-yellow)
