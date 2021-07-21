@@ -34,7 +34,7 @@ router.put('/api/workouts/:id', ({ body, params }, res) => {
       .catch(err => {
         res.json(err);
       });
-      //need to add total duration
+      
   });
 
   router.get("/api/workouts/range", (req, res) => {
