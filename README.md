@@ -52,24 +52,4 @@ A short and simple permissive license with conditions only requiring preservatio
 ## Questions
  * GitHub: [vbarajas4](https://github.com/vbarajas4)
  * Email: [vbarajas4@gmail.com](mailto:vbarajas4@gmail.com)
-
-
-
-
-
-
-To deploy an application with a MongoDB database to Heroku, you'll need to set up a MongoDB Atlas account and connect a database from there to your application. Be sure to use the following guides for support:
-
-  * [Set Up MongoDB Atlas](../04-Important/MongoAtlas-Setup.md)
-
-  * [Deploy with Heroku and MongoDB Atlas](../04-Important/MongoAtlas-Deploy.md)
-
-
-
-## Submission on BCS
-
-You are required to submit the following:
-
-* The URL to the deployed application
-
-* The URL to the GitHub repository
+ 
